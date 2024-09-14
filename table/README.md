@@ -1,3 +1,21 @@
+<!-- # Table
+# Camera List App
+
+## Setup Instructions
+1. Clone the repository: `git clone <repo-url>`
+2. Install dependencies: `npm install`
+3. Start the application: `npm start`
+
+## Features
+- Fetches camera data from the API
+- Displays camera list with pagination, search,filter and status toggle
+
+## API Endpoints
+- Fetch list: `https://api-app-staging.wobot.ai/app/v1/fetch/cameras`
+- Update status: `https://api-app-staging.wobot.ai/app/v1/update/camera/status`
+
+## Deployment
+- Deployed on [GitHub Pages/Vercel]. -->https://cameratable.vercel.app/
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
