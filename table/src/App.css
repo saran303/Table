@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+  margin-left: 90px;
+}
+.headWrapper{
+  display: flex;
+  justify-content: space-between;
+}
+.headContent{
+  justify-self: start;
+}
+
+.searchBar{
+  margin-right: 40px;
+  display: flex;
+  align-items: center;
+}
+h2{
+  color: rgba(0, 0, 0, 0.737);
+  text-align: start;
+}

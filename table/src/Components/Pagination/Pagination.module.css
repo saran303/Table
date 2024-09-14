@@ -1,0 +1,22 @@
+.paginationCSS{
+    display: flex;
+    justify-content: end;
+    margin-top: 30px;
+    margin-right: 50px;
+}
+
+.btn{
+    border: 0px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.pageNum{
+    border: 0px;
+    padding: 15px;
+    border-radius: 10px;
+}
+.indexOfLast{
+    display: flex;
+    justify-content: center;
+    padding-top: 15px;
+}
